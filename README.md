@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Back-end web development**
 
-- 👨‍💻All of my projects are available at [https://www.linkedin.com/in/Azharmehmood/](https://www.linkedin.com/in/Azharmehmood/)
+- 👨‍💻All of my projects are available at [https://www.linkedin.com/in/Azhar Mehmood/](https://www.linkedin.com/in/Azharmehmood/)
 
 - 💬 Ask me about ****HTML, CSS, Bootstrap, tailwind CSS and Reacr js.**
 
