@@ -10,7 +10,7 @@
 
 - 💬 Ask me about ****HTML, CSS, Bootstrap, tailwind CSS and Reacr js.**
 
-- 📫How to reach me **azhar3014@gmail.com**
+- 📫How to reach me **azharm3014@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
